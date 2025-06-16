@@ -1,0 +1,9 @@
+/* src/index.css */
+
+@import './styles/animations.css'; /* Pindahkan ini ke paling atas */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Pastikan tidak ada kode CSS lain di bawah ini lagi, seperti yang sudah kita bahas sebelumnya */
